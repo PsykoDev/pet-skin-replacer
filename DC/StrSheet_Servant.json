@@ -1,580 +1,740 @@
 {
-  "String": [
-    {
-      "id": 1,
-      "string": "Candyspinner"
-    },
-    {
-      "id": 2,
-      "string": "Fetch"
-    },
-    {
-      "id": 3,
-      "string": "Dragonette"
-    },
-    {
-      "id": 4,
-      "string": "Ser Picks-a-lot"
-    },
-    {
-      "id": 5,
-      "string": "Rambo"
-    },
-    {
-      "id": 6,
-      "string": "Carnivorous Plant"
-    },
-    {
-      "id": 7,
-      "string": "Prince"
-    },
-    {
-      "id": 8,
-      "string": "Totes"
-    },
-    {
-      "id": 9,
-      "string": "Cheeks"
-    },
-    {
-      "id": 10,
-      "string": "Boo"
-    },
-    {
-      "id": 11,
-      "string": "Ser Picks-a-lot"
-    },
-    {
-      "id": 12,
-      "string": "Peddit"
-    },
-    {
-      "id": 13,
-      "string": "Caddy"
-    },
-    {
-      "id": 14,
-      "string": "Zero"
-    },
-    {
-      "id": 15,
-      "string": "Miss Katonic"
-    },
-    {
-      "id": 16,
-      "string": "Pinkie"
-    },
-    {
-      "id": 17,
-      "string": "Bonzai"
-    },
-    {
-      "id": 18,
-      "string": "Addams"
-    },
-    {
-      "id": 19,
-      "string": "Rusty"
-    },
-    {
-      "id": 20,
-      "string": "Rainie"
-    },
-    {
-      "id": 21,
-      "string": "Nugget"
-    },
-    {
-      "id": 24,
-      "string": "Elisa"
-    },
-    {
-      "id": 25,
-      "string": "Golden Dragonette"
-    },
-    {
-      "id": 27,
-      "string": "Ebon Dragonette"
-    },
-    {
-      "id": 29,
-      "string": "Fyre Dragonette"
-    },
-    {
-      "id": 31,
-      "string": "Jade Dragonette"
-    },
-    {
-      "id": 33,
-      "string": "Silver Dragonette"
-    },
-    {
-      "id": 50,
-      "string": "Sparky"
-    },
-    {
-      "id": 51,
-      "string": "Shadow"
-    },
-    {
-      "id": 52,
-      "string": "Spook"
-    },
-    {
-      "id": 56,
-      "string": "No EU license"
-    },
-    {
-      "id": 57,
-      "string": "KR only"
-    },
-    {
-      "id": 58,
-      "string": "Dragonette"
-    },
-    {
-      "id": 60,
-      "string": "No EU license"
-    },
-    {
-      "id": 64,
-      "string": "Sakura Spirit"
-    },
-    {
-      "id": 70,
-      "string": "Prince"
-    },
-    {
-      "id": 71,
-      "string": "Willoe"
-    },
-    {
-      "id": 72,
-      "string": "Chef"
-    },
-    {
-      "id": 73,
-      "string": "Miss Kitty"
-    },
-    {
-      "id": 79,
-      "string": "Dakuryon"
-    },
-    {
-      "id": 80,
-      "string": "Magus Imperator Dakuryon"
-    },
-    {
-      "id": 81,
-      "string": "Magus Imperator Dakuryon"
-    },
-    {
-      "id": 82,
-      "string": "Magus Imperator Dakuryon"
-    },
-    {
-      "id": 83,
-      "string": "Magus Imperator Dakuryon"
-    },
-    {
-      "id": 84,
-      "string": "Luna"
-    },
-    {
-      "id": 85,
-      "string": "Flitterfluff"
-    },
-    {
-      "id": 99,
-      "string": "Wooley"
-    },
-    {
-      "id": 200,
-      "string": "Chicken Dinner Dakuryon"
-    },
-    {
-      "id": 201,
-      "string": "PlayerUnknown's Power Popori"
-    },
-    {
-      "id": 202,
-      "string": "PlayerUnknown's Popori"
-    },
-    {
-      "id": 204,
-      "string": "Tough Teddy"
-    },
-    {
-      "id": 208,
-      "string": "Cuddly Kitty"
-    },
-    {
-      "id": 212,
-      "string": "Perky Panda"
-    },
-    {
-      "id": 216,
-      "string": "Bouncy Bunny"
-    },
-    {
-      "id": 220,
-      "string": "Rascally Raccoon"
-    },
-    {
-      "id": 300,
-      "string": "Ignis Theron"
-    },
-    {
-      "id": 301,
-      "string": "Aqua Theron"
-    },
-    {
-      "id": 400,
-      "string": "Sparky"
-    },
-    {
-      "id": 401,
-      "string": "Shadow"
-    },
-    {
-      "id": 402,
-      "string": "Spook"
-    },
-    {
-      "id": 403,
-      "string": "Sparky"
-    },
-    {
-      "id": 404,
-      "string": "Shadow"
-    },
-    {
-      "id": 405,
-      "string": "Spook"
-    },
-    {
-      "id": 500,
-      "string": "Gutsy Guinea Pig"
-    },
-    {
-      "id": 501,
-      "string": "Gutsy Guinea Pig"
-    },
-    {
-      "id": 502,
-      "string": "Gutsy Guinea Pig"
-    },
-    {
-      "id": 503,
-      "string": "Gutsy Guinea Pig"
-    },
-    {
-      "id": 504,
-      "string": "Brave Black Bear"
-    },
-    {
-      "id": 505,
-      "string": "Brave Black Bear"
-    },
-    {
-      "id": 506,
-      "string": "Brave Black Bear"
-    },
-    {
-      "id": 507,
-      "string": "Brave Black Bear"
-    },
-    {
-      "id": 508,
-      "string": "Zorenai"
-    },
-    {
-      "id": 509,
-      "string": "Zorenai"
-    },
-    {
-      "id": 510,
-      "string": "Zorenai"
-    },
-    {
-      "id": 511,
-      "string": "Zorenai"
-    },
-    {
-      "id": 512,
-      "string": "Asrael"
-    },
-    {
-      "id": 513,
-      "string": "Asrael"
-    },
-    {
-      "id": 514,
-      "string": "Asrael"
-    },
-    {
-      "id": 515,
-      "string": "Asrael"
-    },
-    {
-      "id": 600,
-      "string": "Miss Kitty"
-    },
-    {
-      "id": 601,
-      "string": "Willoe"
-    },
-    {
-      "id": 602,
-      "string": "Dundee"
-    },
-    {
-      "id": 603,
-      "string": "Chef"
-    },
-    {
-      "id": 604,
-      "string": "Rocky"
-    },
-    {
-      "id": 605,
-      "string": "Madmartigan"
-    },
-    {
-      "id": 606,
-      "string": "Bam Bam"
-    },
-    {
-      "id": 607,
-      "string": "Bonzai"
-    },
-    {
-      "id": 608,
-      "string": "Addams"
-    },
-    {
-      "id": 609,
-      "string": "Clawd"
-    },
-    {
-      "id": 610,
-      "string": "Juicy"
-    },
-    {
-      "id": 611,
-      "string": "Flaps"
-    },
-    {
-      "id": 620,
-      "string": "Moon Bunny"
-    },
-    {
-      "id": 613,
-      "string": "KR only"
-    },
-    {
-      "id": 700,
-      "string": "Zero"
-    },
-    {
-      "id": 701,
-      "string": "Miss Katonic"
-    },
-    {
-      "id": 702,
-      "string": "Pinkie"
-    },
-    {
-      "id": 703,
-      "string": "Rusty"
-    },
-    {
-      "id": 704,
-      "string": "Rainie"
-    },
-    {
-      "id": 800,
-      "string": "Dragonette"
-    },
-    {
-      "id": 801,
-      "string": "Candyspinner"
-    },
-    {
-      "id": 802,
-      "string": "Addams"
-    },
-    {
-      "id": 803,
-      "string": "Bonzai"
-    },
-    {
-      "id": 804,
-      "string": "Rainie"
-    },
-    {
-      "id": 805,
-      "string": "Rusty"
-    },
-    {
-      "id": 806,
-      "string": "Pinkie"
-    },
-    {
-      "id": 807,
-      "string": "Zero"
-    },
-    {
-      "id": 808,
-      "string": "Miss Katonic"
-    },
-    {
-      "id": 900,
-      "string": "Hanami"
-    },
-    {
-      "id": 901,
-      "string": "Baldi"
-    },
-    {
-      "id": 902,
-      "string": "Power Hanami"
-    },
-    {
-      "id": 903,
-      "string": "Power Baldi"
-    },
-    {
-      "id": 1000,
-      "string": "Marie"
-    },
-    {
-      "id": 1001,
-      "string": "Loo"
-    },
-    {
-      "id": 1002,
-      "string": "Kuncun"
-    },
-    {
-      "id": 1003,
-      "string": "Cocomin"
-    },
-    {
-      "id": 1004,
-      "string": "Elo"
-    },
-    {
-      "id": 1005,
-      "string": "Rico"
-    },
-    {
-      "id": 10001,
-      "string": "Exhausted"
-    },
-    {
-      "id": 10002,
-      "string": "Tired"
-    },
-    {
-      "id": 10003,
-      "string": "Neutral"
-    },
-    {
-      "id": 10004,
-      "string": "Healthy"
-    },
-    {
-      "id": 20001,
-      "string": "Promote"
-    },
-    {
-      "id": 20002,
-      "string": "Train"
-    },
-    {
-      "id": 20003,
-      "string": "Combine"
-    },
-    {
-      "id": 20004,
-      "string": "Evolve"
-    },
-    {
-      "id": 20005,
-      "string": "Grow"
-    },
-    {
-      "id": 20011,
-      "string": "Promote"
-    },
-    {
-      "id": 20012,
-      "string": "Train"
-    },
-    {
-      "id": 20013,
-      "string": "Combine"
-    },
-    {
-      "id": 20014,
-      "string": "Evolve"
-    },
-    {
-      "id": 20015,
-      "string": "Grow"
-    },
-    {
-      "id": 20016,
-      "string": "Return"
-    },
-    {
-      "id": 30001,
-      "string": "Auto-Use Potion Ability"
-    },
-    {
-      "id": 30002,
-      "string": "Auto-Use HP %"
-    },
-    {
-      "id": 30003,
-      "string": "Auto-Use MP %"
-    },
-    {
-      "id": 30004,
-      "string": "Drag a restorative potion from your inventory into the slot.$BR$BRIf your character’s HP drops below a certain level, a potion will automatically be used.$BRIf the character’s MP drops below a certain level, a potion will automatically be used."
-    },
-    {
-      "id": 30005,
-      "string": "HP Potion"
-    },
-    {
-      "id": 30006,
-      "string": "MP Potion"
-    },
-    {
-      "id": 30011,
-      "string": "Auto-Caring %"
-    },
-    {
-      "id": 30012,
-      "string": "Auto-Use Energy %"
-    },
-    {
-      "id": 30013,
-      "string": "Auto-Use Stamina %"
-    },
-    {
-      "id": 30014,
-      "string": "Drag food or a gift from your inventory into the slot.$BR$BRIf the companion’s energy drops below a certain level, it will automatically use the food.$BRIf the companion’s stamina drops below a certain level, it will automatically use the gift."
-    },
-    {
-      "id": 30015,
-      "string": "Food"
-    },
-    {
-      "id": 30016,
-      "string": "Gift"
-    }
-  ]
+	"String": [
+		{
+			"id": 1,
+			"string": "Candyspinner"
+		},
+		{
+			"id": 2,
+			"string": "Fetch"
+		},
+		{
+			"id": 3,
+			"string": "Dragonette"
+		},
+		{
+			"id": 4,
+			"string": "Ser Picks-a-lot"
+		},
+		{
+			"id": 5,
+			"string": "Rambo"
+		},
+		{
+			"id": 6,
+			"string": "Carnivorous Plant"
+		},
+		{
+			"id": 7,
+			"string": "Prince"
+		},
+		{
+			"id": 8,
+			"string": "Totes"
+		},
+		{
+			"id": 9,
+			"string": "Cheeks"
+		},
+		{
+			"id": 10,
+			"string": "Boo"
+		},
+		{
+			"id": 11,
+			"string": "Ser Picks-a-lot"
+		},
+		{
+			"id": 12,
+			"string": "Peddit"
+		},
+		{
+			"id": 13,
+			"string": "Caddy"
+		},
+		{
+			"id": 14,
+			"string": "Zero"
+		},
+		{
+			"id": 15,
+			"string": "Miss Katonic"
+		},
+		{
+			"id": 16,
+			"string": "Pinkie"
+		},
+		{
+			"id": 17,
+			"string": "Bonzai"
+		},
+		{
+			"id": 18,
+			"string": "Addams"
+		},
+		{
+			"id": 19,
+			"string": "Rusty"
+		},
+		{
+			"id": 20,
+			"string": "Rainie"
+		},
+		{
+			"id": 21,
+			"string": "Nugget"
+		},
+		{
+			"id": 24,
+			"string": "Elisa"
+		},
+		{
+			"id": 25,
+			"string": "Golden Dragonette"
+		},
+		{
+			"id": 27,
+			"string": "Ebon Dragonette"
+		},
+		{
+			"id": 29,
+			"string": "Fyre Dragonette"
+		},
+		{
+			"id": 31,
+			"string": "Jade Dragonette"
+		},
+		{
+			"id": 33,
+			"string": "Silver Dragonette"
+		},
+		{
+			"id": 50,
+			"string": "Sparky"
+		},
+		{
+			"id": 51,
+			"string": "Shadow"
+		},
+		{
+			"id": 52,
+			"string": "Spook"
+		},
+		{
+			"id": 56,
+			"string": "No EU license"
+		},
+		{
+			"id": 57,
+			"string": "KR only"
+		},
+		{
+			"id": 58,
+			"string": "Dragonette"
+		},
+		{
+			"id": 60,
+			"string": "No EU license"
+		},
+		{
+			"id": 64,
+			"string": "Sakura Spirit"
+		},
+		{
+			"id": 70,
+			"string": "Prince"
+		},
+		{
+			"id": 71,
+			"string": "Willoe"
+		},
+		{
+			"id": 72,
+			"string": "Chef"
+		},
+		{
+			"id": 73,
+			"string": "Miss Kitty"
+		},
+		{
+			"id": 79,
+			"string": "Dakuryon"
+		},
+		{
+			"id": 80,
+			"string": "Magus Imperator Dakuryon"
+		},
+		{
+			"id": 81,
+			"string": "Magus Imperator Dakuryon"
+		},
+		{
+			"id": 82,
+			"string": "Magus Imperator Dakuryon"
+		},
+		{
+			"id": 83,
+			"string": "Magus Imperator Dakuryon"
+		},
+		{
+			"id": 84,
+			"string": "Luna"
+		},
+		{
+			"id": 85,
+			"string": "Flitterfluff"
+		},
+		{
+			"id": 99,
+			"string": "Wooley"
+		},
+		{
+			"id": 200,
+			"string": "Chicken Dinner Dakuryon"
+		},
+		{
+			"id": 201,
+			"string": "PlayerUnknown's Power Popori"
+		},
+		{
+			"id": 202,
+			"string": "PlayerUnknown's Popori"
+		},
+		{
+			"id": 204,
+			"string": "Tough Teddy"
+		},
+		{
+			"id": 208,
+			"string": "Cuddly Kitty"
+		},
+		{
+			"id": 212,
+			"string": "Perky Panda"
+		},
+		{
+			"id": 216,
+			"string": "Bouncy Bunny"
+		},
+		{
+			"id": 220,
+			"string": "Rascally Raccoon"
+		},
+		{
+			"id": 300,
+			"string": "Ignis Theron"
+		},
+		{
+			"id": 301,
+			"string": "Aqua Theron"
+		},
+		{
+			"id": 400,
+			"string": "Sparky"
+		},
+		{
+			"id": 401,
+			"string": "Shadow"
+		},
+		{
+			"id": 402,
+			"string": "Spook"
+		},
+		{
+			"id": 403,
+			"string": "Sparky"
+		},
+		{
+			"id": 404,
+			"string": "Shadow"
+		},
+		{
+			"id": 405,
+			"string": "Spook"
+		},
+		{
+			"id": 500,
+			"string": "Gutsy Guinea Pig"
+		},
+		{
+			"id": 501,
+			"string": "Gutsy Guinea Pig"
+		},
+		{
+			"id": 502,
+			"string": "Gutsy Guinea Pig"
+		},
+		{
+			"id": 503,
+			"string": "Gutsy Guinea Pig"
+		},
+		{
+			"id": 504,
+			"string": "Brave Black Bear"
+		},
+		{
+			"id": 505,
+			"string": "Brave Black Bear"
+		},
+		{
+			"id": 506,
+			"string": "Brave Black Bear"
+		},
+		{
+			"id": 507,
+			"string": "Brave Black Bear"
+		},
+		{
+			"id": 508,
+			"string": "Zorenai"
+		},
+		{
+			"id": 509,
+			"string": "Zorenai"
+		},
+		{
+			"id": 510,
+			"string": "Zorenai"
+		},
+		{
+			"id": 511,
+			"string": "Zorenai"
+		},
+		{
+			"id": 512,
+			"string": "Asrael"
+		},
+		{
+			"id": 513,
+			"string": "Asrael"
+		},
+		{
+			"id": 514,
+			"string": "Asrael"
+		},
+		{
+			"id": 515,
+			"string": "Asrael"
+		},
+		{
+			"id": 516,
+			"string": "Tizia"
+		},
+		{
+			"id": 517,
+			"string": "Nuntia"
+		},
+		{
+			"id": 518,
+			"string": "Nuntia"
+		},
+		{
+			"id": 519,
+			"string": "Wee Bad Wolf"
+		},
+		{
+			"id": 520,
+			"string": "Wee Bad Wolf"
+		},
+		{
+			"id": 521,
+			"string": "Wee Bad Wolf"
+		},
+		{
+			"id": 524,
+			"string": "Ron"
+		},
+		{
+			"id": 525,
+			"string": "Ron"
+		},
+		{
+			"id": 526,
+			"string": "Ron"
+		},
+		{
+			"id": 527,
+			"string": "Ron"
+		},
+		{
+			"id": 528,
+			"string": "Ron"
+		},
+		{
+			"id": 529,
+			"string": "Blue Snuggletooth"
+		},
+		{
+			"id": 530,
+			"string": "Blue Snuggletooth"
+		},
+		{
+			"id": 531,
+			"string": "Blue Snuggletooth"
+		},
+		{
+			"id": 532,
+			"string": "Blue Snuggletooth"
+		},
+		{
+			"id": 533,
+			"string": "Blue Snuggletooth"
+		},
+		{
+			"id": 534,
+			"string": "Pink Snuggletooth"
+		},
+		{
+			"id": 535,
+			"string": "Pink Snuggletooth"
+		},
+		{
+			"id": 536,
+			"string": "Pink Snuggletooth"
+		},
+		{
+			"id": 537,
+			"string": "Pink Snuggletooth"
+		},
+		{
+			"id": 538,
+			"string": "Pink Snuggletooth"
+		},
+		{
+			"id": 539,
+			"string": "Great Pink Snuggletooth"
+		},
+		{
+			"id": 540,
+			"string": "Great Blue Snuggletooth"
+		},
+		{
+			"id": 549,
+			"string": "Huginn and Muninn"
+		},
+		{
+			"id": 550,
+			"string": "Huginn and Muninn"
+		},
+		{
+			"id": 551,
+			"string": "Huginn and Muninn"
+		},
+		{
+			"id": 552,
+			"string": "Huginn and Muninn"
+		},
+		{
+			"id": 553,
+			"string": "Huginn and Muninn (Rare)"
+		},
+		{
+			"id": 554,
+			"string": "Shayde"
+		},
+		{
+			"id": 555,
+			"string": "Screamer"
+		},
+		{
+			"id": 570,
+			"string": "Santa's Slimy Helper"
+		},
+		{
+			"id": 571,
+			"string": "Santa's Slimy Helper"
+		},
+		{
+			"id": 572,
+			"string": "Santa's Slimy Helper"
+		},
+		{
+			"id": 573,
+			"string": "Santa's Slimy Helper"
+		},
+		{
+			"id": 574,
+			"string": "Fenrir"
+		},
+		{
+			"id": 575,
+			"string": "Fenrir Unbound"
+		},
+		{
+			"id": 600,
+			"string": "Miss Kitty"
+		},
+		{
+			"id": 601,
+			"string": "Willoe"
+		},
+		{
+			"id": 602,
+			"string": "Dundee"
+		},
+		{
+			"id": 603,
+			"string": "Chef"
+		},
+		{
+			"id": 604,
+			"string": "Rocky"
+		},
+		{
+			"id": 605,
+			"string": "Madmartigan"
+		},
+		{
+			"id": 606,
+			"string": "Bam Bam"
+		},
+		{
+			"id": 607,
+			"string": "Bonzai"
+		},
+		{
+			"id": 608,
+			"string": "Addams"
+		},
+		{
+			"id": 609,
+			"string": "Clawd"
+		},
+		{
+			"id": 610,
+			"string": "Juicy"
+		},
+		{
+			"id": 611,
+			"string": "Flaps"
+		},
+		{
+			"id": 620,
+			"string": "Moon Bunny"
+		},
+		{
+			"id": 613,
+			"string": "KR only"
+		},
+		{
+			"id": 700,
+			"string": "Zero"
+		},
+		{
+			"id": 701,
+			"string": "Miss Katonic"
+		},
+		{
+			"id": 702,
+			"string": "Pinkie"
+		},
+		{
+			"id": 703,
+			"string": "Rusty"
+		},
+		{
+			"id": 704,
+			"string": "Rainie"
+		},
+		{
+			"id": 800,
+			"string": "Dragonette"
+		},
+		{
+			"id": 801,
+			"string": "Candyspinner"
+		},
+		{
+			"id": 802,
+			"string": "Addams"
+		},
+		{
+			"id": 803,
+			"string": "Bonzai"
+		},
+		{
+			"id": 804,
+			"string": "Rainie"
+		},
+		{
+			"id": 805,
+			"string": "Rusty"
+		},
+		{
+			"id": 806,
+			"string": "Pinkie"
+		},
+		{
+			"id": 807,
+			"string": "Zero"
+		},
+		{
+			"id": 808,
+			"string": "Miss Katonic"
+		},
+		{
+			"id": 900,
+			"string": "Hanami"
+		},
+		{
+			"id": 901,
+			"string": "Baldi"
+		},
+		{
+			"id": 902,
+			"string": "Power Hanami"
+		},
+		{
+			"id": 903,
+			"string": "Power Baldi"
+		},
+		{
+			"id": 1000,
+			"string": "Marie"
+		},
+		{
+			"id": 1001,
+			"string": "Loo"
+		},
+		{
+			"id": 1002,
+			"string": "Kuncun"
+		},
+		{
+			"id": 1003,
+			"string": "Cocomin"
+		},
+		{
+			"id": 1004,
+			"string": "Elo"
+		},
+		{
+			"id": 1005,
+			"string": "Rico"
+		},
+		{
+			"id": 1006,
+			"string": "Thrall Egg Cocomin"
+		},
+		{
+			"id": 1007,
+			"string": "Dopey Cocomin"
+		},
+		{
+			"id": 1008,
+			"string": "RK-9"
+		},
+		{
+			"id": 1009,
+			"string": "Kalligar"
+		},
+		{
+			"id": 10001,
+			"string": "Exhausted"
+		},
+		{
+			"id": 10002,
+			"string": "Tired"
+		},
+		{
+			"id": 10003,
+			"string": "Neutral"
+		},
+		{
+			"id": 10004,
+			"string": "Healthy"
+		},
+		{
+			"id": 20001,
+			"string": "Promote"
+		},
+		{
+			"id": 20002,
+			"string": "Train"
+		},
+		{
+			"id": 20003,
+			"string": "Combine"
+		},
+		{
+			"id": 20004,
+			"string": "Evolve"
+		},
+		{
+			"id": 20005,
+			"string": "Grow"
+		},
+		{
+			"id": 20011,
+			"string": "Promote"
+		},
+		{
+			"id": 20012,
+			"string": "Train"
+		},
+		{
+			"id": 20013,
+			"string": "Combine"
+		},
+		{
+			"id": 20014,
+			"string": "Evolve"
+		},
+		{
+			"id": 20015,
+			"string": "Grow"
+		},
+		{
+			"id": 20016,
+			"string": "Return"
+		},
+		{
+			"id": 30001,
+			"string": "Auto-Use Potion Ability"
+		},
+		{
+			"id": 30002,
+			"string": "Auto-Use HP %"
+		},
+		{
+			"id": 30003,
+			"string": "Auto-Use MP %"
+		},
+		{
+			"id": 30004,
+			"string": "Drag a restorative potion from your inventory into the slot.$BR$BRIf your character’s HP drops below a certain level, a potion will automatically be used.$BRIf the character’s MP drops below a certain level, a potion will automatically be used."
+		},
+		{
+			"id": 30005,
+			"string": "HP Potion"
+		},
+		{
+			"id": 30006,
+			"string": "MP Potion"
+		},
+		{
+			"id": 30011,
+			"string": "Auto-Caring %"
+		},
+		{
+			"id": 30012,
+			"string": "Auto-Use Energy %"
+		},
+		{
+			"id": 30013,
+			"string": "Auto-Use Stamina %"
+		},
+		{
+			"id": 30014,
+			"string": "Drag food or a gift from your inventory into the slot.$BR$BRIf the companion’s energy drops below a certain level, it will automatically use the food.$BRIf the companion’s stamina drops below a certain level, it will automatically use the gift."
+		},
+		{
+			"id": 30015,
+			"string": "Food"
+		},
+		{
+			"id": 30016,
+			"string": "Gift"
+		}
+	]
 }

@@ -260,7 +260,7 @@ module.exports = function PetReplacer(mod) {
 		}
     });
 	
-	mod.hook('S_PLAYER_STAT_UPDATE', 13, {order: 9999}, (ev) => {
+	mod.hook('S_PLAYER_STAT_UPDATE', 14, {order: 9999}, (ev) => {
 			pWalkSpeed = ev.walkSpeed + ev.walkSpeedBonus;
 			pRunSpeed = ev.runSpeed + ev.runSpeedBonus;
 		});

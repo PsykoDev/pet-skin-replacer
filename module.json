@@ -1,11 +1,11 @@
 {
-	"disableAutoUpdate": false,
-	"name": "Pet-Skin-Replacer",
-	"author": "Owyn, PsykoDev",
-	"description": "Customize your pet's appearance",
-	"options": {
-		"niceName": "Pet Skin Replacer"
-	},
-	"servers": ["https://raw.githubusercontent.com/PsykoDev/pet-skin-replacer/master/"],
-	"supportUrl": "https://github.com/PsykoDev/pet-skin-replacer/issues"
+    "disableAutoUpdate": false,
+    "name": "Pet-Skin-Replacer",
+    "author": "Owyn, PsykoDev",
+    "description": "Customize your pet's appearance",
+    "options": {
+        "niceName": "Pet Skin Replacer"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/pet-skin-replacer/master/"],
+    "supportUrl": "https://github.com/PsykoDev/pet-skin-replacer/issues"
 }

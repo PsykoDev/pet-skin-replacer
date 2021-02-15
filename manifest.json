@@ -1,24 +1,30 @@
 {
-	"files": {
-		"README.MD": "abfe8544d5f4c469fddf12322be7a48779c489fc8578d139814e80a6b46bf030",
-		"index.js": "4101fddaf113d6852858ed2a127efde32a720b27759a641f3cd72202bf20ecd0",
-		"module.json": "b266875f5ae1b7f2ba189caacfb2d3ec8ce537ebf742e2612c351bccdb32e0d7",
-		"pet_presets.json": "c6233520743b8bae6fea59ff1d9d6f9c9164d7f1a2597952d3c4a0a97ecf4eed"
-	},
-	"defs": {
-		"C_PLAYER_LOCATION": 5,
-		"C_START_TARGETED_SKILL": 6,
-		"S_ABNORMALITY_SCALE_UP": 2,
-		"S_ACTION_END": 5,
-		"S_ACTION_STAGE": 9,
-		"S_INSTANCE_ARROW": 3,
-		"S_INSTANT_DASH": 3,
-		"S_LOGIN": [13,14],
-		"S_NPC_LOCATION": 3,
-		"S_PLAYER_STAT_UPDATE": 12,
-		"S_PLAY_ANIMATION": 1,
-		"S_REQUEST_DESPAWN_SERVANT": 1,
-		"S_REQUEST_SPAWN_SERVANT": 3,
-		"S_SOCIAL": 1
-	}
+    "files": {
+        "DC/AnimationData.json": "4dda0a1d008591667f90152bae644ebf50c3c21be9a3164b62cb4d31e87529fc",
+        "DC/NpcData.txt": "591896a82a2a4e02284f855ff71860c1be0b9af0fbbe3668c5d2030fc5266eeb",
+        "DC/NpcShape-0.json": "46c00403df0c6e119b815cf8aaa0e56e2ffa520aa7f4cb34efbe9c0b5a82042c",
+        "DC/ServantData.json": "d34c7274599032336e8232848e7afa79fc72e4f41f725ff9a304379a9d42ac7f",
+        "DC/StrSheet_Creature.json": "a3b370d92332f61f87e753f46a648fca81f1d4fdb10b5a8b22c46ca5ce408181",
+        "DC/StrSheet_Servant.json": "d6baf4ce6f7485099154517ecab3f71cba52ae7536b953a8a5f0a7f2f017cd3d",
+        "README.MD": "abfe8544d5f4c469fddf12322be7a48779c489fc8578d139814e80a6b46bf030",
+        "index.js": "8394a849e377487dd9641ac1086fc156104cbb2350f874797323e9941ac5a43b",
+        "module.json": "11dbd42a351951f4d5e72f39341e97a20352011e5bb31003db6cbb781e4951b3",
+        "pet_presets.json": "c6233520743b8bae6fea59ff1d9d6f9c9164d7f1a2597952d3c4a0a97ecf4eed"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_START_TARGETED_SKILL": 7,
+        "S_ABNORMALITY_SCALE_UP": 2,
+        "S_ACTION_END": 5,
+        "S_ACTION_STAGE": 9,
+        "S_INSTANCE_ARROW": 4,
+        "S_INSTANT_DASH": 3,
+        "S_LOGIN": [13,14],
+        "S_NPC_LOCATION": 3,
+        "S_PLAYER_STAT_UPDATE": 14,
+        "S_PLAY_ANIMATION": 1,
+        "S_REQUEST_DESPAWN_SERVANT": 1,
+        "S_REQUEST_SPAWN_SERVANT": 4,
+        "S_SOCIAL": 1
+    }
 }
