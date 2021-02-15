@@ -8,8 +8,7 @@
         "DC/StrSheet_Servant.json": "d6baf4ce6f7485099154517ecab3f71cba52ae7536b953a8a5f0a7f2f017cd3d",
         "README.MD": "abfe8544d5f4c469fddf12322be7a48779c489fc8578d139814e80a6b46bf030",
         "index.js": "8394a849e377487dd9641ac1086fc156104cbb2350f874797323e9941ac5a43b",
-        "module.json": "11dbd42a351951f4d5e72f39341e97a20352011e5bb31003db6cbb781e4951b3",
-        "pet_presets.json": "c6233520743b8bae6fea59ff1d9d6f9c9164d7f1a2597952d3c4a0a97ecf4eed"
+        "module.json": "11dbd42a351951f4d5e72f39341e97a20352011e5bb31003db6cbb781e4951b3"
     },
     "defs": {
         "C_PLAYER_LOCATION": 5,

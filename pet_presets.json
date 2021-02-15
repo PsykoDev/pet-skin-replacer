@@ -237,5 +237,11 @@
         "templateId": 1000,
         "huntingZoneId": 716,
 		"size": 0.12
+    },
+    {
+        "name": "lumikan",
+        "templateId": 1000,
+        "huntingZoneId": 3204,
+		"size": 0.12
     }
 ]}

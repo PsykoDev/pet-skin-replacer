@@ -67,7 +67,7 @@ Note: Only monsters have collision hitboxes
 |          | Miss Katonic   |          |            | Darkan       |
 |          |                |          |            | Kylos        |
 |          |                |          |            | Lizard       |
-|          |                |          |            |              |
+|          |                |          |            | Lumikan      |
 |          |                |          |            |              |
 
 <img src=http://u.cubeupload.com/Owyn/petspreview.jpg>
